@@ -1,10 +1,9 @@
 const Navbar = () => {
   return (
     <>
-      <nav className="bg-[#526D82] z-1 shadow-2xl border-black ">
+      <nav className="bg-[#526D82] z-1 shadow-2xl border-black">
         <div className="max-w-screen-xl flex items-center p-5">
           <a href="#" className="flex items-center">
-
             <span className="self-center text-4xl mb-1   font-extrabold whitespace-nowrap text-[#DDE6ED]">RoaDEH</span>
           </a>
           <div className="flex md:order-2">
